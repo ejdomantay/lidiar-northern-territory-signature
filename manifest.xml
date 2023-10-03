@@ -28,7 +28,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://ejdomantay.github.io/lidiar-group-signature/src/taskpane/HTML/editsignature.html"/>
+        <SourceLocation DefaultValue="https://ejdomantay.github.io/lidiar-northern-territory-signature/src/taskpane/HTML/editsignature.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -125,9 +125,9 @@
           <bt:Image id="Icon16x16" DefaultValue="https://lidiargroup.com.au/wp-content/uploads/2015/10/Logo_Small_100px.png"></bt:Image>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="residUrl0" DefaultValue="https://ejdomantay.github.io/lidiar-group-signature/src/taskpane/HTML/editsignature.html"></bt:Url>
-          <bt:Url id="Autorun" DefaultValue="https://ejdomantay.github.io/lidiar-group-signature/src/runtime/HTML/autorunweb.html"></bt:Url>
-          <bt:Url id="runtimeJs" DefaultValue="https://ejdomantay.github.io/lidiar-group-signature/src/runtime/Js/autorunshared.js"></bt:Url>
+          <bt:Url id="residUrl0" DefaultValue="https://ejdomantay.github.io/lidiar-northern-territory-signature/src/taskpane/HTML/editsignature.html"></bt:Url>
+          <bt:Url id="Autorun" DefaultValue="https://ejdomantay.github.io/lidiar-northern-territory-signature/src/runtime/HTML/autorunweb.html"></bt:Url>
+          <bt:Url id="runtimeJs" DefaultValue="https://ejdomantay.github.io/lidiar-northern-territory-signature/src/runtime/Js/autorunshared.js"></bt:Url>
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="residGL0" DefaultValue="Lidiar Northern Territory Signature Add-in"></bt:String>
