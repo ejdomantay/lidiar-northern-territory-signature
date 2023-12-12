@@ -115,7 +115,7 @@ function setSignatureTemplate(curUser, eventObj){
           '</td>'+
         '</tr>'+
       '</table>'+
-    '<div>' +
+    '<div style="padding-top:10px">' +
       '<img height="210" width="360" src="https://raw.githubusercontent.com/ejdomantay/lidiar-group/main/Christmas%202023%20Message%20GIF.gif"></img>' +
     '</div>'+
     '<div>'+
