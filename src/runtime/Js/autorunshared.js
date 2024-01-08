@@ -115,10 +115,10 @@ function setSignatureTemplate(curUser, eventObj){
           '</td>'+
         '</tr>'+
       '</table>'+
-    '<br />'+
-    '<div>' +
-      '<img height="210" width="360" src="https://raw.githubusercontent.com/ejdomantay/lidiar-group/main/Christmas%202023%20Message%20GIF.gif"></img>' +
-    '</div>'+
+    // '<br />'+
+    // '<div>' +
+    //   '<img height="210" width="360" src="https://raw.githubusercontent.com/ejdomantay/lidiar-group/main/Christmas%202023%20Message%20GIF.gif"></img>' +
+    // '</div>'+
     '<div>'+
     '<p style="color:gray; font-size:13px;padding-top: 16px;">'+
           'Disclaimer: The information contained in this email is intended only for the use of the person(s) to whom it is addressed and may be confidential or contain privileged information. All information contained in this electronic communication is solely for the use of the individual(s) or entity to which it was addressed. If you are not the intended recipient you are hereby notified that any perusal, use, distribution, copying or disclosure is strictly prohibited. If you have received this email in error please immediately advise us by return email and delete the email without making a copy.'+
