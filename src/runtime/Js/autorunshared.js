@@ -90,7 +90,7 @@ function setSignatureTemplate(curUser, eventObj){
             '<tr>'+
               '<td>'+
                 '<span style="color:red">o.</span>'+
-                '<span> '+ (curUser.OfficeLocation ? curUser.OfficeLocation : "Level 3, 240 Queen Street Brisbane QLD 4000") +'</span>'+
+                '<span> '+ (curUser.OfficeLocation ? curUser.OfficeLocation : "Level 5, 144 Edward Street, Brisbane, Queensland, 4000.") +'</span>'+
                   
               '</td>'+
             '</tr>'+
